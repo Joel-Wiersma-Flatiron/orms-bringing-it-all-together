@@ -1,0 +1,1 @@
+DB = {:conn =&gt; SQLite3::Database.new("db/dogs.db")}
